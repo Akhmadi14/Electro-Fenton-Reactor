@@ -1,0 +1,32 @@
+{
+  "files": [
+    "actions.h",
+    "fonts.h",
+    "images.c",
+    "images.h",
+    "screens.c",
+    "screens.h",
+    "structs.h",
+    "styles.c",
+    "styles.h",
+    "ui.c",
+    "ui.h",
+    "ui_image_effiton_logo.c",
+    "ui_image_icons8_add_50.c",
+    "ui_image_icons8_add_64.c",
+    "ui_image_icons8_bowel_flush_64.c",
+    "ui_image_icons8_graph_64.c",
+    "ui_image_icons8_lens_100.c",
+    "ui_image_icons8_monitor_64.c",
+    "ui_image_icons8_play_64__1_.c",
+    "ui_image_icons8_plus_64.c",
+    "ui_image_icons8_quick_mode_on_100.c",
+    "ui_image_icons8_return_64.c",
+    "ui_image_icons8_sand_100.c",
+    "ui_image_icons8_schedule_64.c",
+    "ui_image_next.c",
+    "ui_image_scroll.c",
+    "ui_image_stop.c",
+    "vars.h"
+  ]
+}
